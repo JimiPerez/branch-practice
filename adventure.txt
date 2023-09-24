@@ -3,3 +3,4 @@ Socrates
 Aristotle
 Abraham Lincoln
 Thomas Paine
+Thomas Jefferson
